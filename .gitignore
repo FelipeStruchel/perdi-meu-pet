@@ -1,0 +1,4 @@
+# Obsidian — estado local do workspace
+.obsidian/workspace*.json
+.obsidian/cache
+.trash/
